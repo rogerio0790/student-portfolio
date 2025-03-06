@@ -344,9 +344,9 @@ elif page == "Contact":
             except Exception as e:
                 st.error(f"❌ Error: {e}")
 
-    st.write("📧 Email: mclement@ines.ac.rw")
-    st.write("[🔗LinkedIn](https://ikigugugroup.rw)")
-    st.write("[📂GitHub](https://ikigugugroup.rw)")
+    st.write("📧 rogermuhire8@gmail")
+    st.write("[🔗LinkedIn](https://www.linkedin.com/in/muhire-roger-9a304b268/)")
+    st.write("[📂GitHub](https://www.linkedin.com/in/muhire-roger-9a304b268/w)")
     st.markdown('</div>', unsafe_allow_html=True)
 
 # Footer
